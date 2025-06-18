@@ -2,7 +2,7 @@
 
 ---
 
-## 📁 Capstone-Day2 – Python Arrays
+## 📘 Python Arrays
 
 A Python-based exercise demonstrating array operations using the `array` module.  
 This project includes a variety of examples covering basic to intermediate array manipulation techniques.
